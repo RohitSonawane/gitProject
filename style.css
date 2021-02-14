@@ -10,4 +10,5 @@ p {
     color: green;
     font-size: larger;
     width: auto;
+    grid-area: span;
 }
