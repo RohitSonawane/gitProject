@@ -9,12 +9,9 @@ h1 {
 p {
     color: green;
     font-size: larger;
-<<<<<<< HEAD
     width: auto;
-=======
 }
 
-a {
-    color: coral;
->>>>>>> Feature-1
+a{
+    color: darkblue;
 }
